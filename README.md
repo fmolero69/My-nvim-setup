@@ -1,7 +1,8 @@
 # My-Nvim-Setup
 
-## Install
 ##  **It is a custom Neovim setup with lua plugins:**
+
+## Install
 
 ####  Features:
 
