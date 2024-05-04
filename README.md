@@ -8,17 +8,17 @@
 
 ####  Features:
 
-- **autopairs**
-- **cmp**
-- **feline**
-- **fugitive**
--  **lsp**
--  **luasnip**
-- **mason**
-- **neotree**
--  **nightfox**
-- **telescope**
-- **treesitter**
+- **[autopairs](https://github.com/windwp/nvim-autopairshttp:// "autopairs")**
+- **[cmp](http://https://github.com/hrsh7th/nvim-cmp "cmp")**
+- **[feline](http://https://github.com/freddiehaddad/feline.nvim "feline")**
+- **[fugitive](http://https://github.com/tpope/vim-fugitive "fugitive")**
+-  **[lsp](http://https://github.com/neovim/nvim-lspconfig "lsp")**
+-  **[luasnip](http://https://github.com/L3MON4D3/LuaSnip "luasnip")**
+- **[mason](http://https://github.com/williamboman/mason.nvim "mason")**
+- **[neotree](https://github.com/nvim-neo-tree/neo-tree.nvimhttp:// "neotree")**
+-  **[nightfox](http://https://github.com/EdenEast/nightfox.nvim "nightfox")**
+- **[telescope](http://https://github.com/nvim-telescope/telescope.nvim "telescope")**
+- **[treesitter](http://https://github.com/nvim-treesitter/nvim-treesitter "treesitter")**
 
 #### Requirements:
 ##### It is necessary to have a prior installation of the following packages
