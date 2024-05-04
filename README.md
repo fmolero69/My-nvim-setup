@@ -2,6 +2,8 @@
 
 ##  **It is a custom Neovim setup with lua plugins:**
 
+![Captura de pantalla_2024-05-04_16-02-23](https://github.com/fmolero69/My-nvim-setup/assets/116031640/82e65b00-bdbb-4220-8a3c-f3e9948b0ac4)
+
 ## Install
 
 ####  Features:
@@ -38,7 +40,7 @@ neovim will automatically download the plugins needed by Mason
 I hope you like it and can help me continue improving this project...**
 </p>
 
-![Captura de pantalla_2024-05-04_16-02-23](https://github.com/fmolero69/My-nvim-setup/assets/116031640/82e65b00-bdbb-4220-8a3c-f3e9948b0ac4)
+
 ![Captura de pantalla_2024-05-04_16-02-46](https://github.com/fmolero69/My-nvim-setup/assets/116031640/59f1cf96-425d-4503-a6e7-6c34b381bb9e)
 ![Captura de pantalla_2024-05-04_16-03-03](https://github.com/fmolero69/My-nvim-setup/assets/116031640/f0be8083-ed35-4e2c-b29f-972ff12f92f0)
 ![Captura de pantalla_2024-05-04_16-04-09](https://github.com/fmolero69/My-nvim-setup/assets/116031640/46211fcb-b037-4a8c-a041-29338e68aaf6)
