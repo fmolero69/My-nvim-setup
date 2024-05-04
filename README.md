@@ -18,12 +18,12 @@
 - **telescope**
 - **treesitter**
 
-### Requirements:
-#### It is necessary to have a prior installation of the following packages
+#### Requirements:
+##### It is necessary to have a prior installation of the following packages
 - Neovim v0.9.5
 - npm
 - nodejs
-#### Fonts
+##### Fonts
 ###### It is necessary to have any of the Nerd fonts installed and Powerline fonts
 - [nerd fonts](http://https://www.nerdfonts.com/font-downloads "nerd fonts") and [Symbols Nerd Fonts](http://https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip "Symbols Nerd Fonts")
 - [Porweline fonts](http:/https://github.com/powerline/powerline/ "Porweline fonts")
