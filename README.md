@@ -1,5 +1,7 @@
 # My-Nvim-Setup
 
+![fmolero](https://github.com/fmolero69/My-nvim-setup/assets/116031640/dd1e8aeb-f18c-4cc0-9a71-e393ce50f1fb)
+
 ##  **It is a custom Neovim setup with lua plugins:**
 
 ![Captura de pantalla_2024-05-04_16-02-23](https://github.com/fmolero69/My-nvim-setup/assets/116031640/82e65b00-bdbb-4220-8a3c-f3e9948b0ac4)
