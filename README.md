@@ -37,9 +37,9 @@
 git clone git@github.com:fmolero69/My-nvim-setup.git  ~/.config/nvim
 ```
 <p>
-**then start from the nvim terminal.
+then start from the nvim terminal.
 neovim will automatically download the plugins needed by Mason
-I hope you like it and can help me continue improving this project...**
+I hope you like it and can help me continue improving this project...
 </p>
 
 
