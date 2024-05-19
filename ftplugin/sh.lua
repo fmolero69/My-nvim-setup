@@ -1,8 +1,8 @@
 
 -- Configuración de indentación para archivos Bash
-vim.bo.tabstop = 2
-vim.bo.softtabstop = 2
-vim.bo.shiftwidth = 2
+vim.bo.tabstop = 4
+vim.bo.softtabstop = 4
+vim.bo.shiftwidth = 4
 vim.bo.expandtab = true
 
 -- Funciones de indentación personalizadas para Bash
