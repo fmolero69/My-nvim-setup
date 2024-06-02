@@ -33,8 +33,9 @@ return {
     end
 
     require("neodev").setup()
+    require("lspconfig").bashls.setup({})
     require("lspconfig").clangd.setup({})
-    require'lspconfig'.pyright.setup({})
+    require("lspconfig").pyright.setup({})
     require("lspconfig").lua_ls.setup({
       on_attach = on_attach,
       settings = {
