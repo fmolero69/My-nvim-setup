@@ -27,6 +27,9 @@
 - Neovim v0.9.5
 - npm
 - nodejs
+```
+sudo pacman -S neovim nodejs npm
+```
 ##### Fonts
 ###### It is necessary to have any of the Nerd fonts installed and Powerline fonts
 - [nerd fonts](http://https://www.nerdfonts.com/font-downloads "nerd fonts") and [Symbols Nerd Fonts](http://https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip "Symbols Nerd Fonts")
@@ -34,7 +37,7 @@
 
 
 ```
-git clone git@github.com:fmolero69/My-nvim-setup.git  ~/.config/nvim
+git clone https://github.com/fmolero69/My-nvim-setup.git  ~/.config/nvim
 ```
 <p>
 then start from the nvim terminal.
